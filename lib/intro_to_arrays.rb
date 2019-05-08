@@ -1,4 +1,4 @@
-def array(arr)
-  @my_new_array = arr
-  @my_new_array
+def instantiate_new_array
+  new_array = []
+  new_array
 end
