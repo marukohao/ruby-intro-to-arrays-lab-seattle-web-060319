@@ -1,3 +1,3 @@
 def array(arr)
-  arr
+  @my
 end
